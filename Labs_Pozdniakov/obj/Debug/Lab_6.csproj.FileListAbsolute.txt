@@ -1,0 +1,14 @@
+C:\Users\Василь\source\repos\Labs_Pozdniakov\Labs_Pozdniakov\bin\Debug\Labs_Pozdniakov.exe.config
+C:\Users\Василь\source\repos\Labs_Pozdniakov\Labs_Pozdniakov\bin\Debug\Labs_Pozdniakov.exe
+C:\Users\Василь\source\repos\Labs_Pozdniakov\Labs_Pozdniakov\bin\Debug\Labs_Pozdniakov.pdb
+C:\Users\Василь\source\repos\Labs_Pozdniakov\Labs_Pozdniakov\obj\Debug\Lab_6.csprojAssemblyReference.cache
+C:\Users\Василь\source\repos\Labs_Pozdniakov\Labs_Pozdniakov\obj\Debug\Lab_6.csproj.CoreCompileInputs.cache
+C:\Users\Василь\source\repos\Labs_Pozdniakov\Labs_Pozdniakov\obj\Debug\Labs_Pozdniakov.exe
+C:\Users\Василь\source\repos\Labs_Pozdniakov\Labs_Pozdniakov\obj\Debug\Labs_Pozdniakov.pdb
+C:\Users\zackh\OneDrive\Рабочий стол\Labs_Pozdniakov\Labs_Pozdniakov\bin\Debug\Labs_Pozdniakov.exe.config
+C:\Users\zackh\OneDrive\Рабочий стол\Labs_Pozdniakov\Labs_Pozdniakov\bin\Debug\Labs_Pozdniakov.exe
+C:\Users\zackh\OneDrive\Рабочий стол\Labs_Pozdniakov\Labs_Pozdniakov\bin\Debug\Labs_Pozdniakov.pdb
+C:\Users\zackh\OneDrive\Рабочий стол\Labs_Pozdniakov\Labs_Pozdniakov\obj\Debug\Lab_6.csprojAssemblyReference.cache
+C:\Users\zackh\OneDrive\Рабочий стол\Labs_Pozdniakov\Labs_Pozdniakov\obj\Debug\Lab_6.csproj.CoreCompileInputs.cache
+C:\Users\zackh\OneDrive\Рабочий стол\Labs_Pozdniakov\Labs_Pozdniakov\obj\Debug\Labs_Pozdniakov.exe
+C:\Users\zackh\OneDrive\Рабочий стол\Labs_Pozdniakov\Labs_Pozdniakov\obj\Debug\Labs_Pozdniakov.pdb
